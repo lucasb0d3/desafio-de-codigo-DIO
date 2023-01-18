@@ -1,3 +1,3 @@
 # desafio-de-codigo-DIO
-desafio de codigo para o DIO
-esse  desafio e esppecifico para git/github
+Desafio de codigo para o DIO
+Esse  desafio e esppecifico para git/github
